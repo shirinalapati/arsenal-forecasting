@@ -1,3 +1,3 @@
-import{t as e}from"./index-me30h43Q.js";import{SlideCanvas as t,t as n}from"./Deck-BXUyUZq4.js";var r=e();function i(){return(0,r.jsxs)(`div`,{className:`print-deck`,children:[(0,r.jsx)(`style`,{children:`@page { size: 1280px 720px; margin: 0 } html, body { margin: 0; background: #fbfaf7 }
+import{t as e}from"./index-Cr7mA-Dk.js";import{SlideCanvas as t,t as n}from"./Deck-B-ozUl0q.js";var r=e();function i(){return(0,r.jsxs)(`div`,{className:`print-deck`,children:[(0,r.jsx)(`style`,{children:`@page { size: 1280px 720px; margin: 0 } html, body { margin: 0; background: #fbfaf7 }
         .print-deck .page { width: 1280px; height: 720px; position: relative; overflow: hidden; page-break-after: always; break-after: page }
         .print-deck .stage { box-shadow: none; border-radius: 0 }`}),n.map((e,n)=>(0,r.jsx)(`div`,{className:`page`,children:(0,r.jsx)(t,{index:n,scale:1,animate:!1})},e.id))]})}export{i as default};
